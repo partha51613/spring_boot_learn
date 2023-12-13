@@ -1,0 +1,1 @@
+Sptring has multiple modules called Projects. Each project can be used in "our" project.
