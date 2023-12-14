@@ -1,1 +1,0 @@
-Created a new project and put the dependencies in the pom.xml file
